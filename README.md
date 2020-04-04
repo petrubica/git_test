@@ -1,0 +1,1 @@
+This is Petrubica's first git project!
